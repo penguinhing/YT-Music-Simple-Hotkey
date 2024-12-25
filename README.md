@@ -1,3 +1,7 @@
+<!--[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/확장프로그램ID)](https://chrome.google.com/webstore/detail/확장프로그램ID) -->
+
+
+
 # Youtube Music Simple Hotkey
 
 ![제목 없음](https://github.com/user-attachments/assets/d99306d0-f793-4043-9ea9-69f821529521)
